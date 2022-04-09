@@ -11,7 +11,7 @@
     "chart.js": "^2.9.3",
     "express": "^4.17.1",
     "express-art-template": "^1.0.1",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "path": "^0.12.7"
   },
   "devDependencies": {},
